@@ -1,0 +1,36 @@
+body {background-color: darkviolet;
+}
+
+h1 {text-align: center;
+}
+
+h2 {margin-left: 8%;
+}
+
+#ima1 {margin-left: 12% ;
+border-style:groove ;
+border-width: 7px;
+border-color:blue ;
+}
+
+#ima2 {margin-left: 12% ;
+    border-style:groove ;
+    border-width: 7px;
+    border-color:blue ;
+    }
+
+    #ima2 {width: 43%;
+    }
+
+    h1 {background-color: dodgerblue;
+    border-style: groove;
+     border-width: 5px;
+    }
+
+    h2 {color: dodgerblue;
+    }
+
+    h3 {color: dodgerblue;
+    font-size: 150%;
+     margin-left: 8%;
+    }
